@@ -1,0 +1,9 @@
+sub,hemisphere,acquisition,sample,chunk,raw
+R2027,B,pire,10887,1,/tmp/target/1126#L6#rt#R2027#pire#10887#1126#L.nii.gz
+R2027,B,pire,10887,1,/tmp/target/1129#L6#rt#R2027#pire#10887#1129#L.nii.gz
+R2027,B,pire,10887,1,/tmp/target/1120#L6#rt#R2027#pire#10887#1120#L.nii.gz
+R2027,B,pire,10887,1,/tmp/target/1123#L6#rt#R2027#pire#10887#1123#L.nii.gz
+R2067,B,pire,11626,1,/tmp/target/L6#rt#R2067#x#pire#11626#1112#L.nii.gz
+R2067,B,pire,11626,1,/tmp/target/L6#rt#R2067#x#pire#11626#1124#L.nii.gz
+R2067,B,pire,11626,1,/tmp/target/L6#rt#R2067#x#pire#11626#1121#L.nii.gz
+R2067,B,pire,11626,1,/tmp/target/L6#rt#R2067#x#pire#11626#1127#L.nii.gz

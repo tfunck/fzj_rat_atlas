@@ -1,0 +1,3 @@
+sub,hemisphere,acquisition,chunk,pixel_size_0,pixel_size_1,section_thickness,direction
+R2027,B,pire,1,0.0048,0.0048,0.02,rostral_to_caudal
+R2067,B,pire,1,0.0048,0.0048,0.02,rostral_to_caudal
